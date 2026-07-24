@@ -1,0 +1,94 @@
+report_date,merchant_id,merchant_type,payment_method,complaint_type,severity,resolution_time_hours,ticket_id
+2026-01-12,M_SME_4521,SME,API_Direct,Transaction Failed,Low,4.5,TK001234
+2026-01-12,M_SME_4522,SME,Merchant_Portal,Slow Settlement,Low,8.0,TK001235
+2026-01-12,M_MID_2103,Mid-Market,API_Direct,Fee Discrepancy,Low,6.0,TK001236
+2026-01-13,M_SME_4523,SME,Bank_Transfer,Reconciliation Issue,Medium,12.0,TK001237
+2026-01-13,M_ENTS_801,Enterprise,API_Direct,Transaction Failed,Low,4.0,TK001238
+2026-01-14,M_SME_4524,SME,API_Direct,Transaction Failed,Low,5.0,TK001239
+2026-01-14,M_MID_2104,Mid-Market,Merchant_Portal,Late Payment,Medium,18.0,TK001240
+2026-01-15,M_SME_4525,SME,Merchant_Portal,Dashboard Error,Low,3.0,TK001241
+2026-01-15,M_ENTS_802,Enterprise,Bank_Transfer,Reconciliation Issue,Medium,16.0,TK001242
+2026-01-16,M_SME_4526,SME,API_Direct,Transaction Failed,Low,4.5,TK001243
+2026-01-17,M_MID_2105,Mid-Market,API_Direct,Integration Issue,Medium,10.0,TK001244
+2026-01-17,M_SME_4527,SME,Merchant_Portal,Transaction Failed,Low,4.0,TK001245
+2026-01-18,M_ENTS_803,Enterprise,API_Direct,Fee Discrepancy,Low,7.0,TK001246
+2026-01-19,M_SME_4528,SME,API_Direct,Transaction Failed,Low,5.0,TK001247
+2026-01-20,M_MID_2106,Mid-Market,Bank_Transfer,Late Payment,Medium,20.0,TK001248
+2026-01-20,M_SME_4529,SME,Merchant_Portal,Slow Settlement,Low,9.0,TK001249
+2026-01-21,M_SME_4530,SME,API_Direct,Transaction Failed,Low,4.5,TK001250
+2026-01-22,M_ENTS_804,Enterprise,Merchant_Portal,Transaction Failed,Low,4.0,TK001251
+2026-01-23,M_MID_2107,Mid-Market,API_Direct,Integration Issue,Medium,11.0,TK001252
+2026-01-24,M_SME_4531,SME,API_Direct,Transaction Failed,Low,5.0,TK001253
+2026-01-25,M_SME_4532,SME,Bank_Transfer,Reconciliation Issue,Medium,14.0,TK001254
+2026-01-26,M_ENTS_805,Enterprise,API_Direct,Fee Discrepancy,Low,6.0,TK001255
+2026-01-27,M_MID_2108,Mid-Market,Merchant_Portal,Late Payment,Medium,19.0,TK001256
+2026-01-28,M_SME_4533,SME,API_Direct,Transaction Failed,Low,4.5,TK001257
+2026-01-29,M_SME_4534,SME,Merchant_Portal,Dashboard Error,Low,3.5,TK001258
+2026-01-30,M_ENTS_806,Enterprise,Bank_Transfer,Slow Settlement,Low,10.0,TK001259
+2026-01-31,M_MID_2109,Mid-Market,API_Direct,Transaction Failed,Low,4.5,TK001260
+2026-02-01,M_SME_4535,SME,API_Direct,Transaction Failed,Low,5.0,TK001261
+2026-02-02,M_SME_4536,SME,Merchant_Portal,Late Payment,Medium,18.0,TK001262
+2026-02-03,M_ENTS_807,Enterprise,API_Direct,Integration Issue,Medium,12.0,TK001263
+2026-02-04,M_MID_2110,Mid-Market,Bank_Transfer,Reconciliation Issue,Medium,15.0,TK001264
+2026-02-05,M_SME_4537,SME,API_Direct,Transaction Failed,Low,4.5,TK001265
+2026-02-06,M_SME_4538,SME,API_Direct,Transaction Failed,Low,5.0,TK001266
+2026-02-07,M_MID_2111,Mid-Market,Merchant_Portal,Fee Discrepancy,Low,6.5,TK001267
+2026-02-08,M_ENTS_808,Enterprise,API_Direct,Transaction Failed,Low,4.0,TK001268
+2026-02-09,M_SME_4539,SME,Bank_Transfer,Slow Settlement,Low,8.5,TK001269
+2026-02-10,M_SME_4540,SME,API_Direct,Transaction Failed,Low,4.5,TK001270
+2026-02-11,M_MID_2112,Mid-Market,API_Direct,Late Payment,Medium,17.0,TK001271
+2026-02-12,M_ENTS_809,Enterprise,Merchant_Portal,Dashboard Error,Low,3.5,TK001272
+2026-02-13,M_SME_4541,SME,Merchant_Portal,Reconciliation Issue,Medium,13.0,TK001273
+2026-02-14,M_SME_4542,SME,API_Direct,Transaction Failed,Low,5.0,TK001274
+2026-02-15,M_MID_2113,Mid-Market,Bank_Transfer,Late Payment,Medium,19.0,TK001275
+2026-02-16,M_ENTS_810,Enterprise,API_Direct,Fee Discrepancy,Low,7.0,TK001276
+2026-02-17,M_SME_4543,SME,API_Direct,Transaction Failed,Low,4.5,TK001277
+2026-02-18,M_SME_4544,SME,API_Direct,Transaction Failed,Low,5.0,TK001278
+2026-02-19,M_MID_2114,Mid-Market,Merchant_Portal,Integration Issue,Medium,11.0,TK001279
+2026-02-20,M_ENTS_811,Enterprise,Bank_Transfer,Slow Settlement,Low,9.0,TK001280
+2026-02-21,M_SME_4545,SME,API_Direct,Transaction Failed,Low,4.5,TK001281
+2026-02-22,M_SME_4546,SME,Merchant_Portal,Late Payment,Medium,16.0,TK001282
+2026-02-23,M_MID_2115,Mid-Market,API_Direct,Transaction Failed,Low,4.5,TK001283
+2026-02-24,M_ENTS_812,Enterprise,API_Direct,Reconciliation Issue,Medium,14.0,TK001284
+2026-02-25,M_SME_4547,SME,API_Direct,Transaction Failed,Low,5.0,TK001285
+2026-02-26,M_SME_4548,SME,API_Direct,Transaction Failed,Low,4.5,TK001286
+2026-02-27,M_MID_2116,Mid-Market,Bank_Transfer,Fee Discrepancy,Low,6.0,TK001287
+2026-02-28,M_ENTS_813,Enterprise,Merchant_Portal,Dashboard Error,Low,3.0,TK001288
+2026-03-01,M_SME_4549,SME,API_Direct,Transaction Failed,Low,5.0,TK001289
+2026-03-02,M_SME_4550,SME,Merchant_Portal,Late Payment,Medium,17.0,TK001290
+2026-03-03,M_MID_2117,Mid-Market,API_Direct,Integration Issue,Medium,10.0,TK001291
+2026-03-04,M_ENTS_814,Enterprise,Bank_Transfer,Slow Settlement,Low,8.0,TK001292
+2026-03-05,M_SME_4551,SME,API_Direct,Transaction Failed,Low,4.5,TK001293
+2026-03-06,M_SME_4552,SME,API_Direct,Transaction Failed,Low,5.0,TK001294
+2026-03-07,M_MID_2118,Mid-Market,Merchant_Portal,Reconciliation Issue,Medium,12.0,TK001295
+2026-03-08,M_ENTS_815,Enterprise,API_Direct,Fee Discrepancy,Low,6.5,TK001296
+2026-03-09,M_SME_4553,SME,API_Direct,Transaction Failed,Low,4.5,TK001297
+2026-03-10,M_SME_4554,SME,Merchant_Portal,Dashboard Error,Low,3.5,TK001298
+2026-03-11,M_MID_2119,Mid-Market,API_Direct,Transaction Failed,Low,4.5,TK001299
+2026-03-12,M_ENTS_816,Enterprise,Bank_Transfer,Late Payment,Medium,18.0,TK001300
+2026-03-13,M_SME_4555,SME,API_Direct,Transaction Failed,Low,5.0,TK001301
+2026-03-14,M_SME_4556,SME,API_Direct,Transaction Failed,Low,4.5,TK001302
+2026-03-15,M_MID_2120,Mid-Market,Merchant_Portal,Integration Issue,Medium,9.0,TK001303
+2026-03-16,M_ENTS_817,Enterprise,API_Direct,Reconciliation Issue,Medium,13.0,TK001304
+2026-03-17,M_SME_4557,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001305
+2026-03-18,M_SME_4558,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001306
+2026-03-18,M_SME_4559,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001307
+2026-03-19,M_SME_4560,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001308
+2026-03-19,M_SME_4561,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001309
+2026-03-20,M_SME_4562,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001310
+2026-03-20,M_SME_4563,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001311
+2026-03-21,M_SME_4564,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001312
+2026-03-21,M_SME_4565,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001313
+2026-03-21,M_SME_4566,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001314
+2026-03-22,M_SME_4567,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001315
+2026-03-22,M_SME_4568,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001316
+2026-03-22,M_SME_4569,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001317
+2026-03-23,M_SME_4570,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001318
+2026-03-23,M_SME_4571,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001319
+2026-03-23,M_SME_4571,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001320
+2026-03-23,M_SME_4572,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001321
+2026-03-24,M_SME_4573,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001322
+2026-03-24,M_SME_4574,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001323
+2026-03-24,M_MID_2121,Mid-Market,API_Direct,Transaction Failed,Low,4.5,TK001324
+2026-03-25,M_SME_4575,SME,API_Direct,Transaction Failed - CRITICAL,High,1.5,TK001325
+2026-03-25,M_SME_4576,SME,API_Direct,Transaction Failed - CRITICAL,High,2.0,TK001326
